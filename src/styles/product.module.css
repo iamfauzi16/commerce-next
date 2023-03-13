@@ -1,0 +1,12 @@
+.product {
+  display: flex;
+  flex-wrap:wrap;
+  gap: 1rem;
+  justify-content: center;
+  margin-top:20px;
+  position: absolute;
+}
+.heading {
+  margin: 36px 0px 24px 60px;
+  font-size: 36px;
+}

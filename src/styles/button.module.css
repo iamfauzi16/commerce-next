@@ -1,0 +1,18 @@
+.bodyButton {
+  font-size: 16px;
+  font-weight: 600;
+  text-transform: uppercase;
+  padding: 18px;
+  color: blueviolet;
+  border: none;
+  border-radius: 8px;
+  
+}
+
+.bodyButton:hover {
+  border: 3px solid white;
+  color: white;
+  
+  transition-duration: 200ms;
+  background-color: blueviolet;
+}
